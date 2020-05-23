@@ -1,2 +1,2 @@
-# Bullets-and-walls
-made on visual studio code
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
